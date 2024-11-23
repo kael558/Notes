@@ -1,3 +1,24 @@
+# Todo
+
+## Frontend
+
+### Image Upload
+
+1. Upload image, receive OCR of it. Confirm text.
+2. Sort into separate chunks
+3. Query each chunk with Pinecone
+4. Show updated chunks. Allow user to confirm or edit.
+
+### Text Upload
+
+2. Sort into separate chunks
+3. Query each chunk with Pinecone
+4. Show updated chunks. Allow user to confirm or edit.
+
+### Query
+
+1. Ask a question
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
