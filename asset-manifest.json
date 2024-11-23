@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mom-notes/static/css/main.02e592ed.css",
+    "main.js": "/mom-notes/static/js/main.69cbbca4.js",
+    "static/js/453.586d0985.chunk.js": "/mom-notes/static/js/453.586d0985.chunk.js",
+    "index.html": "/mom-notes/index.html",
+    "main.02e592ed.css.map": "/mom-notes/static/css/main.02e592ed.css.map",
+    "main.69cbbca4.js.map": "/mom-notes/static/js/main.69cbbca4.js.map",
+    "453.586d0985.chunk.js.map": "/mom-notes/static/js/453.586d0985.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e592ed.css",
+    "static/js/main.69cbbca4.js"
+  ]
+}
